@@ -16,18 +16,18 @@ By leveraging its own diverse services, including the digital asset information 
   
 - 📜[Whitepaper KO](https://www.galaxiacoin.io/assets/doc/galaxia-whitepaper-kor_v1.4.pdf)
 
-<h1>GALAXIA Service</h1>
+<h1>GALAXIA Services</h1>
 
-- [CoinSiren](https://coinsiren.io/)
+- 📈[CoinSiren](https://coinsiren.io/)
 
-- [MetaGalaxia](https://metagalaxia.com/)
+- 🎨[MetaGalaxia](https://metagalaxia.com/)
 
 
 <h1>GALAXIA Social Media</h1>
 
-- [Telegram](https://t.me/GXACommunity)
+- 📢[Telegram](https://t.me/GXACommunity)
 
-- [X(Twitter)](https://x.com/GXA_galaxia)
+- 🐦[X(Twitter)](https://x.com/GXA_galaxia)
   
-- [Medium](https://medium.com/@Galaxiacoin.io)
+- 📝[Medium](https://medium.com/@Galaxiacoin.io)
   
