@@ -8,13 +8,13 @@ By leveraging its own diverse services, including the digital asset information 
 
 <h1>About GALAXIA</h1>
 
-- [Webpage EN](https://www.galaxiacoin.io)
+- 🌐[Webpage EN](https://www.galaxiacoin.io)
 
-- [Webpage KO](https://www.galaxiacoin.io/index_kr.html)
+- 🌐[Webpage KO](https://www.galaxiacoin.io/index_kr.html)
   
-- [Whitepaper EN](https://www.galaxiacoin.io/assets/doc/galaxia-whitepaper-eng_v1.4.pdf)
+- 📜[Whitepaper EN](https://www.galaxiacoin.io/assets/doc/galaxia-whitepaper-eng_v1.4.pdf)
   
-- [Whitepaper KO](https://www.galaxiacoin.io/assets/doc/galaxia-whitepaper-kor_v1.4.pdf)
+- 📜[Whitepaper KO](https://www.galaxiacoin.io/assets/doc/galaxia-whitepaper-kor_v1.4.pdf)
 
 <h1>GALAXIA Service</h1>
 
