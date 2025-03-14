@@ -7,6 +7,7 @@ GALAXIA(GXA) is a utility token used for payments and rewards within the GALAXIA
 By leveraging its own diverse services, including the digital asset information platform CoinSiren and the NFT marketplace MetaGalaxia, it builds an innovative ecosystem that seamlessly bridges Web2 and Web3 services.
 
 <h1>About GALAXIA</h1>
+
 - [WEBPAGE EN](https://www.galaxiacoin.io)
 
 - [WEBPAGE KO](https://www.galaxiacoin.io/index_kr.html)
