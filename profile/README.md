@@ -1,1 +1,1 @@
-<img src="https://github.com/GALAXIA-GXA/assets/blob/main/images/banner01.png" width="1000">
+<img src="https://github.com/GALAXIA-GXA/.github/blob/main/header.png" width="1000">
