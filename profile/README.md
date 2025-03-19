@@ -18,11 +18,11 @@ By leveraging its own diverse services, including the digital asset information 
 
 <h1>GALAXIA Services</h1>
 
-- 📈[CoinSiren](https://coinsiren.io/)
+- 📈[CoinSiren](https://coinsiren.io/): On-chain Data Analysis Platform
 
-- 🎨[MetaGalaxia](https://metagalaxia.com/)
+- 🎨[MetaGalaxia](https://metagalaxia.com/): NFT Marketplace
 
-- 👛[GALAXIA Wallet](https://play.google.com/store/apps/details?id=io.galaxiacoin.gwallet&hl=ko)
+- 👛[GALAXIA Wallet](https://play.google.com/store/apps/details?id=io.galaxiacoin.gwallet&hl=ko): Cryptocurrency Wallet
 
 
 <h1>GALAXIA Social Media</h1>
