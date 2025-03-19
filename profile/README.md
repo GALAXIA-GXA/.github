@@ -22,6 +22,8 @@ By leveraging its own diverse services, including the digital asset information 
 
 - 🎨[MetaGalaxia](https://metagalaxia.com/)
 
+- 👛[GALAXIA Wallet](https://play.google.com/store/apps/details?id=io.galaxiacoin.gwallet&hl=ko)
+
 
 <h1>GALAXIA Social Media</h1>
 
